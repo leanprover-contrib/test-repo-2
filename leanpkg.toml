@@ -1,0 +1,8 @@
+[package]
+name = "test-repo-2"
+version = "0.1"
+lean_version = "leanprover-community/lean:3.16.3"
+path = "src"
+
+[dependencies]
+test-repo-1 = {git = "https://github.com/leanprover-contrib/test-repo-1", rev = "c9e7d69e429ef72961f531164de0dc38dc40271e"}
