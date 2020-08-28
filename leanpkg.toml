@@ -5,4 +5,4 @@ lean_version = "leanprover-community/lean:3.18.4"
 path = "src"
 
 [dependencies]
-test-repo-1 = {git = "https://github.com/leanprover-contrib/test-repo-1", rev = "0244722183bbf12e8967afe827314a5ec4ad4b36"}
+test-repo-1 = {git = "https://github.com/leanprover-contrib/test-repo-1", rev = "0e5c4e1d7c2137f86f092f8ea6f0b9417d791ae4"}
